@@ -1,0 +1,22 @@
+[
+    {
+        "Title": "Ubuntu 22.04.3 (LTS)",
+        "Url": "https://releases.ubuntu.com/jammy/ubuntu-22.04.3-desktop-amd64.iso",
+        "Filename": "ubuntu-22.04.3-desktop-amd64.iso"
+    },
+    {
+        "Title": "Debian 12.2.0",
+        "Url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.2.0-amd64-DVD-1.iso",
+        "Filename": "debian-12.2.0-amd64-DVD-1.iso"
+    },
+    {
+        "Title": "Parrot Security 5.3",
+        "Url": "https://deb.parrot.sh/parrot/iso/5.3/Parrot-security-5.3_amd64.iso",
+        "Filename": "Parrot-security-5.3_amd64.iso"
+    },
+    {
+        "Title": "Kali Linux 2023.3 (Live)",
+        "Url": "https://cdimage.kali.org/kali-2023.3/kali-linux-2023.3-live-amd64.iso",
+        "Filename": "kali-linux-2023.3-live-amd64.iso"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Title": "Windows 10 Entreprise LTSC",
+        "Url": "https://go.microsoft.com/fwlink/p/?LinkID=2195404&clcid=0x409&culture=en-us&country=US",
+        "Filename": "ToUpdate-win10-ent-ltsc.iso"
+    },
+    {
+        "Title": "Windows 10 Entreprise",
+        "Url": "https://go.microsoft.com/fwlink/p/?LinkID=2208844&clcid=0x409&culture=en-us&country=US",
+        "Filename": "ToUpdate-win10-ent.iso"
+    },
+    {
+        "Title": "Windows Server 2022",
+        "Url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x409&culture=en-us&country=US",
+        "Filename": "ToUpdate-win-server_2022.iso"
+    }
+]
