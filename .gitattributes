@@ -1,7 +1,7 @@
 # .gitattributes
 
 # Exclude all files inside the archive folder from GitHub language statistics
-archive/* linguist-vendored
+archives/** linguist-vendored
 
 # Exclude all files inside the assets folder (including subfolders) from GitHub language statistics
 assets/** linguist-generated
